@@ -1,7 +1,7 @@
 
 # Data Warehouse for Analytics Project
 
-This project demonstrates a comprehensive development of a data warehouse for analytics solutions, in order to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive development of a data warehouse for analytics solutions, for the purpose of generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 ## Data Architecture
@@ -61,12 +61,12 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### Usage of this Data Warehouse: Business Intelligence & Analytics Reporting (Data Analysis)
 
-#### Objective
+#### Potential Business Objectives:
 Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+These insights would empower stakeholders with key business metrics, enabling strategic decision-making.

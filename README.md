@@ -1,7 +1,7 @@
 
 # Data Warehouse for Analytics Project
 
-This project demonstrates a comprehensive development of a data warehouse for analytics solution, in order to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive development of a data warehouse for analytics solutions, in order to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 ## Data Architecture
